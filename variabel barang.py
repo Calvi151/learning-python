@@ -1,0 +1,5 @@
+nb=input('masukan nama barang:\t')
+jb=int(input('masukan jumlah barang:\t'))
+hg=input('masukan harga barang:\t')
+k=input('masukan ketersedian barang:\t')
+print(f'NAMA BARANG:\t{nb}\nJUMLAH BARANG:\t{jb}\nHARGA BARANG:\t{hg}\nKETERSEDIAAN BARANG:\t{k}')
